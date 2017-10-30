@@ -1,0 +1,521 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201608 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.api.localpay.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1995                
+POS_TIME 2679                
+POS_VISITOR 9281                
+POS_DAY 14157               
+POS_DOMAIN 3443                
+POS_LOGIN 3675                
+POS_ROBOT 3830                
+POS_WORMS 4136                
+POS_EMAILSENDER 4267                
+POS_EMAILRECEIVER 4410                
+POS_SESSION 14875               
+POS_SIDER 15082               
+POS_FILETYPES 4545                
+POS_DOWNLOADS 4774                
+POS_OS 4843                
+POS_BROWSER 4986                
+POS_SCREENSIZE 5441                
+POS_UNKNOWNREFERER 5515                
+POS_UNKNOWNREFERERBROWSER 5677                
+POS_ORIGIN 5759                
+POS_SEREFERRALS 5902                
+POS_PAGEREFS 6068                
+POS_SEARCHWORDS 8665                
+POS_KEYWORDS 8817                
+POS_MISC 2341                
+POS_ERRORS 8876                
+POS_CLUSTER 3531                
+POS_SIDER_404 8972                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160830004122 115 30430 17145389395213
+FirstTime 20160803225124
+LastTime 20160830000738
+LastUpdate 20160830010128 115 0 115 0 0
+TotalVisits 110                 
+TotalUnique 74                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 139                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 418 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 456 1147264 0 11 19679
+1 3 143 920702 0 3 5367
+2 3 51 223043 0 2 3578
+3 0 23 130474 0 0 0
+4 2 27 221198 0 1 1789
+5 2 4 90723 1 2 3578
+6 0 46 260948 0 0 0
+7 22 120 436508 1 37 66193
+8 2 50 351671 1 5 8945
+9 2 119 739119 0 4 7156
+10 7 176 1274259 1 8 12523
+11 8 196 1043088 0 6 10734
+12 78 1317 3053162 7 99 175731
+13 40 539 1812676 8 48 71560
+14 41 359 1713327 19 52 59037
+15 13 273 884666 3 12 17890
+16 64 596 3899843 9 49 77908
+17 24 247 1847663 3 26 41147
+18 15 395 1778063 4 15 19679
+19 21 165 1468409 12 30 32202
+20 19 371 1501819 4 26 39358
+21 40 281 1200866 9 49 71560
+22 10 844 1325035 0 8 14312
+23 22 387 1604391 1 16 26835
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 449 7185 28928917
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+unknown 2 3578 20160820232923 2
+mj12bot 2 3578 20160828080322 1
+googlebot 2 9926 20160816161316 1
+yandex 2 3578 20160826075151 1
+bot[\s_+:,\.\;\/\\-] 1 1789 20160821053839 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 82 643077 0 0
+eot 6 1063308 0 0
+png 6654 16798807 0 0
+ttf 3 531516 0 0
+woff 119 8805400 0 0
+php 5 0 0 0
+html 19 33991 0 0
+xml 1 1789 0 0
+Unknown 296 1051029 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 5 0 8945
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 9
+linuxandroid 142
+winxp 170
+winlong 146
+winnt 3379
+linux 51
+winvista 1041
+win7 2219
+macosx 27
+Unknown 10
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 20
+chrome52.0.2743.116 3602
+firefox48.0 46
+chrome54.0.2832.2 23
+chrome31.0.1650.57 28
+chrome28.0.1500.71 1
+firefox47.0 167
+chrome38.0.2125.102 50
+chrome51.0.2704.103 102
+msie8.0 4
+chrome52.0.2743.82 305
+chrome36.0.1985.135 23
+safari9.0 5
+mozilla 64
+chrome51.0.2704.106 1910
+chrome50.0.2661.102 104
+chrome27.0.1453 28
+chrome46.0.2486.0 51
+chrome52.0.2743.98 23
+chrome52.9.2743.82 457
+chrome49.0.2623.112 192
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible;_vkShare;__http://vk.com/dev/Share) 20160815125541
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 136 146
+From1 0 0
+From2 6 6
+From3 144 6377
+From4 163 656
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 4 4
+yandex 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 66
+http://csdown.ru 21 21
+https://www.free-kassa.ru 21 21
+http://gtasa-universe.ru/donate.html 19 19
+http://missourirp.ru/index2.html 16 16
+http://vk.com/away.php 13 13
+http://g-hw.ru/donate.php 11 11
+http://dofamin-rp.ru/donate.html 9 9
+http://cityofdreams.ru/donate.php 6 6
+http://lektor-rp.ru/donate/ 5 5
+http://lektor-rp.ru/donate.html 5 5
+http://cp.localpay.ru/project/24 0 23
+http://cp.localpay.ru/project/30 0 69
+http://cp.localpay.ru/project/67 0 23
+http://cp.localpay.ru/project/129 0 598
+http://cp.localpay.ru/project/135 0 46
+http://cp.localpay.ru/project/33 0 115
+http://www.free-kassa.ru/success.php 4 4
+http://cp.localpay.ru/project/57 0 23
+http://cp.localpay.ru/project/90 0 23
+http://cp.localpay.ru/project/82 0 46
+http://cp.localpay.ru/project/1 0 552
+http://xenon-rpg.ru/donate/ 2 2
+http://cp.localpay.ru/project/81 0 46
+http://cp.localpay.ru/project/13 0 276
+http://cp.localpay.ru/project/47 0 23
+http://lektor-rp.ru/donate 3 3
+http://cp.localpay.ru/project/131 0 23
+http://cp.localpay.ru/project/32 0 91
+http://cp.localpay.ru/project/108 0 46
+http://test/donat.php 2 2
+http://cp.localpay.ru/project/77 0 46
+http://cp.localpay.ru/project/46 0 184
+http://cp.localpay.ru/project/102 0 46
+http://cp.localpay.ru/project/36 0 23
+http://lastlight-rp.ru/donate.htm 1 1
+http://cp.localpay.ru/project/114 0 23
+http://cp.localpay.ru/project/76 0 46
+http://cp.localpay.ru/project/60 0 161
+http://cp.localpay.ru/project/45 0 414
+http://cp.localpay.ru/project/18 0 23
+http://cp.localpay.ru/project/91 0 46
+http://cp.localpay.ru/project/100 0 46
+http://cp.localpay.ru/project/85 0 276
+http://cp.localpay.ru/project/19 0 23
+http://sovserver.webcshost.ru 1 1
+http://cp.localpay.ru/project/130 0 23
+http://cp.localpay.ru/project/43 0 23
+http://cp.localpay.ru/project/8 0 46
+http://admin.cp.localpay.ru/support/ticket/8 1 1
+http://cp.localpay.ru/project/15 0 92
+http://donat.missourirp.ru 1 1
+http://cp.localpay.ru/project/34 0 23
+http://cp.localpay.ru/project/72 0 23
+http://cp.localpay.ru/project/84 0 46
+http://cp.localpay.ru/project/61 0 92
+http://cp.localpay.ru/project/136 0 23
+http://cp.localpay.ru/project/105 0 23
+http://cp.localpay.ru/project/126 0 46
+http://cp.localpay.ru/project/106 0 23
+http://cp.localpay.ru/project/44 0 23
+http://cp.localpay.ru/project/88 0 1
+http://cp.localpay.ru 0 1195
+http://donat.missourirp.ru/pay.html 2 2
+http://cp.localpay.ru/project/98 0 1104
+http://cp.localpay.ru/project/54 0 47
+http://test/donate.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 79 0
+206 3 16510
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 139
+5.44.169.94 32 477 803433 20160816220033
+37.54.64.76 26 238 653543 20160815130429
+77.123.207.179 25 189 313701 20160829140948
+178.137.184.155 24 73 500968 20160816125647
+89.178.108.19 22 96 1020131 20160829202532
+78.36.43.104 22 119 680685 20160828212200
+87.138.166.194 20 145 863185 20160822173002
+185.113.38.135 17 95 794159 20160829181119
+130.180.209.43 13 315 458630 20160826201020
+37.229.164.254 13 38 237516 20160829215535
+83.220.236.126 0 23 130474 
+46.241.60.61 0 23 130474 
+95.153.130.76 2 50 221197 20160823223745
+178.34.161.137 0 46 260948 
+109.194.103.236 3 120 232146 20160808125926
+195.211.23.211 0 1 7609 
+195.211.23.212 0 1 4002 
+188.32.245.211 5 7 529366 20160811160000
+195.211.23.207 1 1 9791 20160815125541
+95.213.6.13 1 1 1845 20160815110024
+66.102.6.145 3 28 277011 20160816161319
+95.158.36.208 2 4 90668 20160820165627
+77.222.155.208 0 46 130474 
+95.153.128.130 2 4 90723 20160820174749
+83.220.236.128 1 2 9791 20160816161047
+195.211.23.215 0 1 8873 
+130.180.212.200 3 142 271704 20160828125035
+178.69.161.167 2 4 90723 20160820003550
+136.243.38.150 7 7 21 20160829130327
+195.211.23.214 0 1 3404 
+46.0.22.203 2 4 90723 20160825235946
+185.113.36.151 3 28 223042 20160822111429
+95.213.4.168 1 1 9767 20160815125356
+5.145.233.43 0 46 260948 
+89.250.168.28 0 46 130474 
+78.107.250.102 0 46 130474 
+83.220.237.231 0 23 130474 
+66.102.9.125 0 10 53509 
+66.102.6.137 4 27 611198 20160816161334
+78.29.104.182 4 168 828226 20160816205843
+89.109.193.189 0 23 130474 
+176.223.102.201 3 5 165828 20160815110616
+95.73.226.138 0 23 130474 
+145.255.8.59 0 23 130474 
+37.45.21.114 0 23 130474 
+37.115.1.82 0 23 130474 
+83.220.239.235 12 24 497246 20160813140635
+62.183.124.74 0 23 130474 
+46.211.136.198 0 23 130474 
+31.180.229.250 0 23 130474 
+5.136.234.58 0 23 130474 
+193.33.166.54 8 127 805196 20160812131421
+5.44.169.46 0 23 130474 
+188.187.178.105 0 23 0 
+130.180.218.241 0 1 4071 
+176.124.27.44 0 23 130474 
+109.188.127.79 2 4 86694 20160827151933
+109.188.127.17 0 23 130474 
+109.239.216.255 6 286 383034 20160820184009
+85.95.187.55 3 11 188980 20160829230701
+136.243.38.151 8 8 24 20160829132151
+66.102.6.141 2 28 291926 20160816161320
+5.141.181.149 0 23 130474 
+92.115.179.207 0 92 260948 
+109.188.127.21 0 23 130474 
+195.253.17.145 0 23 130474 
+81.177.126.199 0 23 130474 
+5.1.21.114 2 27 230245 20160803225125
+83.220.239.53 12 38 361357 20160815145426
+37.229.170.118 9 81 305063 20160818190050
+109.188.126.135 5 9 167823 20160823232436
+66.249.89.75 1 1 9791 20160816161250
+95.8.233.15 3 51 223043 20160820024248
+79.132.117.159 0 23 130474 
+194.11.28.13 0 23 130474 
+188.162.166.40 7 148 322620 20160811145335
+80.91.179.167 0 23 130474 
+130.180.216.155 6 31 322822 20160820232922
+37.54.175.54 0 23 130474 
+128.69.223.191 3 4 364417 20160811164803
+217.118.83.154 0 23 130474 
+46.42.143.138 0 23 130474 
+77.93.30.6 4 146 964292 20160816135212
+188.0.189.46 4 8 181446 20160819225704
+195.211.23.210 0 1 5547 
+66.102.9.8 2 8 122456 20160816161204
+5.143.147.243 0 23 130474 
+188.0.189.140 2 4 86749 20160828093336
+83.220.236.199 0 23 130474 
+213.87.225.49 0 23 130474 
+66.102.9.19 1 10 125342 20160816161204
+95.153.132.33 2 4 90723 20160819133036
+83.220.236.81 2 4 99771 20160804182240
+93.75.88.245 3 97 529280 20160822010039
+176.109.84.167 3 5 161798 20160827151952
+5.142.136.196 0 23 130474 
+95.153.128.240 2 4 90723 20160824180646
+109.188.127.35 3 28 301331 20160822135033
+213.167.220.206 0 23 130474 
+95.107.77.101 2 27 217224 20160829193330
+109.188.126.130 1 2 1844 20160825124720
+83.220.236.115 1 1 23 20160803225612
+109.188.125.16 0 46 0 
+109.188.125.3 0 23 130474 
+46.172.10.10 2 4 90723 20160826050728
+109.188.127.46 2 119 79930 20160828124532
+176.124.28.248 0 23 130474 
+109.73.6.161 0 23 4071 
+37.214.163.245 0 23 130474 
+2.61.60.77 2 27 221198 20160818040808
+130.180.208.176 0 23 130474 
+188.0.188.76 2 4 90723 20160825170154
+136.243.38.149 6 6 18 20160829124012
+109.188.126.13 3 28 301307 20160817212202
+188.163.96.125 0 23 130474 
+178.141.76.184 0 23 130474 
+188.186.216.42 0 23 130474 
+91.105.149.202 12 619 1102868 20160830000738 20160830000738 /style/fonts/WhitneySSm-Book-ProCy.woff
+46.63.139.51 0 23 130474 
+83.220.239.36 1 1 9863 20160815155257
+91.216.133.135 2 27 230301 20160810135642
+185.113.36.170 2 4 90723 20160823210623
+193.254.196.207 0 23 130474 
+37.26.134.28 0 23 130474 
+195.211.23.209 0 1 3213 
+188.187.150.71 11 150 110207 20160808231641
+178.168.13.230 0 46 260948 
+46.42.254.201 3 6 164617 20160827173307
+207.244.78.176 0 23 130474 
+80.71.255.212 6 55 306211 20160819205226
+37.55.37.179 3 559 442917 20160826193537
+178.213.6.179 0 23 130474 
+93.74.243.83 0 23 130474 
+83.220.237.118 0 23 130474 
+109.188.124.4 2 372 86718 20160829231710
+195.211.23.213 0 1 3035 
+83.220.239.223 0 23 130474 
+91.124.133.28 6 31 322763 20160816212159
+31.28.201.137 0 46 260948 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20160803 3 5 99794 2
+20160804 2 4 99771 1
+20160805 0 23 130474 0
+20160807 0 46 260948 0
+20160808 15 432 994726 5
+20160809 0 23 130474 0
+20160810 2 96 491249 1
+20160811 22 355 2541643 7
+20160812 2 47 132329 1
+20160813 15 52 729280 2
+20160814 0 184 782844 0
+20160815 74 629 2256674 13
+20160816 65 529 3620104 15
+20160817 3 166 957748 1
+20160818 11 200 1048157 2
+20160819 12 113 839328 4
+20160820 21 518 1853383 7
+20160821 0 24 4071 0
+20160822 22 306 1817030 4
+20160823 9 178 1001639 3
+20160824 2 50 351671 1
+20160825 20 191 1328969 5
+20160826 24 424 1245627 8
+20160827 24 126 1131434 4
+20160828 16 460 922648 7
+20160829 83 1862 3678762 16
+20160830 2 142 478140 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 5
+5mn-15mn 11
+0s-30s 72
+30s-2mn 3
+15mn-30mn 8
+2mn-5mn 3
+30mn-1h 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/pay 243 1045521 78 32
+/style/fonts/WhitneySSm-Book-ProCy.woff 78 5726136 1 35
+/style/fonts/WhitneySSm-Semibold-ProCy.woff 41 3079264 2 12
+/success 28 0 0 7
+/handlerFK 22 86 17 17
+/ 19 33991 11 2
+/config.php 5 0 0 0
+/style/fonts/WhitneySSm-Semibold-ProCy.eot 3 529716 0 1
+/style/fonts/WhitneySSm-Book-ProCy.eot 3 533592 0 1
+/style/fonts/WhitneySSm-Book-ProCy.ttf 2 355216 0 1
+/sitemap.xml 1 1789 0 1
+/pay/fe74c-13 1 1844 1 0
+/style/fonts/WhitneySSm-Semibold-ProCy.ttf 1 176300 0 0
+/index 1 1789 0 0
+/config 1 1789 0 0
+END_SIDER
